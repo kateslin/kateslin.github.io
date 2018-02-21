@@ -23,7 +23,7 @@ p {
 }
 
 strong {
-	color: #ffffff;
+	color: #00406e;
 	}
 	
 
@@ -142,7 +142,7 @@ img::-moz-selection {
     color: #00406e;
   }
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-    color: #fff;
+    color: #00406e;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
     padding: 0.5rem 1rem;
