@@ -5,7 +5,8 @@ html {
 }
 
 body {
-  font-family: 'Raleway', 'Lora', Arial, sans-serif;
+  font-family: '00406e','Abel', sans-serif;
+  font-size: 20px;
 }
 
 hr {
@@ -44,7 +45,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: '#00406e', 'Lora', Arial, sans-serif;
+  font-family: '#00406e', 'Montserrat', 'Montserrat', sans-serif;
 }
 
 .bg-primary {
@@ -88,6 +89,11 @@ img::-moz-selection {
   color: #fff;
   background: transparent;
 }
+
+.my-face {
+    border-radius: 50%;
+}
+
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
