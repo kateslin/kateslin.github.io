@@ -35,6 +35,10 @@ a {
   transition: all 0.2s;
 }
 
+.custom-link{
+  color:#ffffff;
+}
+
 a:hover {
   color: #ffffff;
 }
