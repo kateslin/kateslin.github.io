@@ -29,14 +29,14 @@ strong {
 	
 
 a {
-  color: #00406e;
+  color: #ffffff;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #00406e;
+  color: #ffffff;
 }
 
 h1,
