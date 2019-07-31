@@ -29,18 +29,20 @@ strong {
 	
 
 a {
-  color: #ffffff;
+  color: #00406e;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 .custom-link{
-  color: rgba(255, 255, 255, 0.7);
+  color:  #00406e;
+  /*color: rgba(255, 255, 255, 0.7);*/
+  font-weight: bold
 }
 
 a:hover {
-  color: #ffffff;
+  color: #00406e;
 }
 
 h1,
@@ -53,7 +55,8 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #00406e!important;
+  /*background-color: #00406e!important;*/
+  background-color:#fafafa !important;
 }
 
 .bg-dark {
@@ -61,7 +64,8 @@ h6 {
 }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  color:  #00406e;
+  /*color: rgba(255, 255, 255, 0.7);*/
 }
 
 section {
@@ -69,6 +73,7 @@ section {
 }
 
 .section-heading {
+  color:  #00406e;
   margin-top: 0;
 }
 
