@@ -41,6 +41,12 @@ a {
   font-weight: bold
 }
 
+.custom-link-2{
+  color:  #00406e;
+  /*color: rgba(255, 255, 255, 0.7);*/
+}
+
+
 a:hover {
   color: #00406e;
 }
